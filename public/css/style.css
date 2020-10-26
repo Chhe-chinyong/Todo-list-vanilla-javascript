@@ -11,6 +11,10 @@ body {
     font-size: 16px;
 }
 
+input, select {
+    font-size: 100%;
+}
+
 .title {
     padding: 2rem;
 }
