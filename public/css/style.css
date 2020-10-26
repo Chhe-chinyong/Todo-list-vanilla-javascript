@@ -17,7 +17,7 @@ body {
 
 .box {
     padding: 0.5rem;
-    font-size: 16px;
+    font-size: 20px !important; 
 }
 
 .bottom {
@@ -25,7 +25,7 @@ body {
 }
 
 .box:focus{
-    font-size: 16px;
+    font-size: 20px !important; 
     background-color: whitesmoke;
 }
 
